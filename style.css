@@ -1,0 +1,35 @@
+
+button {
+    background: rgb(39, 39, 39);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+   margin-top: 400 px;
+  
+   
+   
+  }
+  body {
+    background: rgb(157, 207, 223);
+    transition: background-color 1s;
+  }
+  
+  
+  button:hover{
+    background: rgb(54, 54, 54);
+  }
+  button:active{
+  font-size: 15px;
+  background: rgb(71, 71, 71);
+  }
+  
+
+
+
+
