@@ -1,0 +1,40 @@
+
+h1{
+    display:block;
+    text-align: center;
+}
+div{
+    height:100px;
+    width:150px;
+    display:inline-block;
+    border:2px solid black;
+    
+}
+#container{
+    margin: 80px 225px 80px 500px;
+
+    width:600px;
+    height:600px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* margin : 0px; */
+}
+#b1{
+    background-color: pink;
+}
+#b2{
+    background-color: aqua;
+   height: 170px;
+}
+#b3{
+    background-color: lightgreen;
+}
+#b4{
+    background-color: burlywood;
+}
+#b5{
+    background-color: cadetblue;
+}
